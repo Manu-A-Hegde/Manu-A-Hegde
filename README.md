@@ -1,35 +1,36 @@
 <div align="center">
-  
-# 👋 Hi, I'm Manu Ashok Hegde
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=VLSI+Design+%26+Verification+Engineer;RTL+Design+%7C+SystemVerilog+%7C+UVM;Digital+Design+Enthusiast;Building+the+Future+of+Hardware" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manu%20Ashok%20Hegde&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=VLSI%20Design%20%26%20Verification%20Engineer&descAlignY=55&descSize=20" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=RTL+Design+%7C+SystemVerilog+%7C+UVM;Building+Hardware+%2C+One+Clock+Cycle+at+a+Time;RISC-V+Verification+Specialist;Digital+Design+%26+Bus+Protocols" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuhegde24)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuashokhegde@gmail.com)
-[![Location](https://img.shields.io/badge/Bengaluru-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/Bengaluru)
+[![Location](https://img.shields.io/badge/Bengaluru-00FF41?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/Bengaluru)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## 🚀 About Me
 
+🎓 **ECE Graduate** | VLSI Verification Enthusiast  
+💼 **Maven Silicon** - Advanced VLSI Verification Training  
+🔬 Focused on **RTL Design**, **UVM**, and **RISC-V Verification**  
+⚡ **95% Coverage** achieved in RISC-V processor verification
+
 ```verilog
-module manu_hegde (
-    input  wire curiosity,
-    input  wire problem_solving,
-    output reg  innovative_solutions
-);
-    always @(posedge curiosity or posedge problem_solving) begin
-        innovative_solutions <= 1'b1;
-    end
-endmodule
+always @(posedge clk) begin
+    if (learning && problem_solving)
+        innovation <= 1'b1;
+end
 ```
 
-🎓 **Electronics & Communication Engineering Graduate** | NITTE Meenakshi Institute of Technology  
-💼 **VLSI Verification Engineer in Training** | Maven Silicon  
-🔬 Passionate about **Digital Design**, **Chip Verification**, and **SoC Architecture**  
-🎯 Goal: Contributing to next-gen **RISC-V** and **SoC** verification projects
+<br clear="right"/>
 
 ---
 
@@ -40,81 +41,38 @@ endmodule
 ### 💻 HDL & Verification
 ![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge&logo=v&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![SVA](https://img.shields.io/badge/SVA-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-00FF41?style=for-the-badge&logo=checkmarx&logoColor=black)
+![SVA](https://img.shields.io/badge/SVA-00FF41?style=for-the-badge&logo=checkmarx&logoColor=black)
 
 ### 🔌 Bus Protocols
-![I2C](https://img.shields.io/badge/I2C-009688?style=for-the-badge&logo=i&logoColor=white)
-![AXI](https://img.shields.io/badge/AXI-3F51B5?style=for-the-badge&logo=a&logoColor=white)
-![AHB](https://img.shields.io/badge/AHB-673AB7?style=for-the-badge&logo=a&logoColor=white)
-![APB](https://img.shields.io/badge/APB-9C27B0?style=for-the-badge&logo=a&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-00AA00?style=for-the-badge&logo=i&logoColor=white)
+![AXI](https://img.shields.io/badge/AXI-008800?style=for-the-badge&logo=a&logoColor=white)
+![AHB](https://img.shields.io/badge/AHB-006600?style=for-the-badge&logo=a&logoColor=white)
+![APB](https://img.shields.io/badge/APB-004400?style=for-the-badge&logo=a&logoColor=white)
 
-### 🧰 EDA Tools
+### 🧰 EDA Tools & Programming
 ![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-0033A0?style=for-the-badge&logo=synopsys&logoColor=white)
 ![Vivado](https://img.shields.io/badge/AMD_Vivado-EE0000?style=for-the-badge&logo=amd&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-0071C5?style=for-the-badge&logo=mentor-graphics&logoColor=white)
-
-### 💾 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TCL](https://img.shields.io/badge/TCL-0078D4?style=for-the-badge&logo=tcl&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Key Projects
+## 🎯 Featured Projects
 
-### 🔥 Featured Works
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| **🖥️ RISC-V Processor Verification** | SystemVerilog, VCS | ✅ 95% Coverage • SVA Assertions • R/I/S/B ISA |
+| **🧮 4-bit ALU with APB** | Verilog, Vivado | ✅ APB Interface • Testbench • Waveform Analysis |
+| **🚨 Fire Alarm FSM** | Verilog, I2C | ✅ FSM Design • I2C Master • State Validation |
+| **💾 RAM UVM Verification** | SystemVerilog, UVM | ✅ Dual-Port RAM • Coverage-Driven • Scoreboard |
 
-#### 🖥️ RISC-V Processor Verification
-- ✅ Verified R, I, S, B ISA types
-- ✅ SystemVerilog testbenches with **95% coverage**
-- ✅ SVA assertions for protocol violations
-- ✅ Control/Data path validation
-- 🛠️ **Tools:** SystemVerilog | Synopsys VCS
-
-</td>
-<td width="50%">
-
-#### 🧮 4-bit ALU Design & Verification
-- ✅ Modular RTL design with APB interface
-- ✅ Complete functional verification
-- ✅ Waveform analysis & bug detection
-- ✅ Arithmetic & logical operations
-- 🛠️ **Tools:** Verilog | AMD Vivado
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🚨 Fire Alarm FSM System
-- ✅ FSM-based design with I2C interface
-- ✅ Master logic for SCL/SDA control
-- ✅ State transitions verified
-- ✅ ACK/NACK handling
-- 🛠️ **Tools:** Verilog | Synopsys VCS
-
-</td>
-<td width="50%">
-
-#### 💾 RAM Verification using UVM
-- ✅ Complete UVM testbench environment
-- ✅ Dual-port RAM verification
-- ✅ Constrained-random sequences
-- ✅ Corner-case bug detection
-- 🛠️ **Tools:** SystemVerilog | UVM | VCS
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -122,68 +80,68 @@ endmodule
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" alt="GitHub Streak" width="500"/>
 
 </div>
 
 ---
 
-## 🎓 Professional Training & Certifications
-
-```diff
-+ Advanced VLSI Verification - Maven Silicon (6 Months) | Oct 2025 - Mar 2026
-+ VLSI Design Methodologies - Maven Silicon (3 Months) | Jul 2025 - Sep 2025
-+ VLSI Design Flow: RTL to GDS II - NPTEL (12 Weeks)
-+ System Design Through Verilog - NPTEL (8 Weeks)
-+ VLSI Analog Fundamentals - Yhills Edutech (Internship) | Feb 2025 - May 2025
-```
-
----
-
-## 🌊 Currently Learning
-
-```systemverilog
-class current_focus;
-    string topics[] = {
-        "Advanced UVM Methodologies",
-        "Coverage-Driven Verification",
-        "RISC-V Architecture Deep Dive",
-        "Low Power Design Techniques",
-        "Formal Verification Basics"
-    };
-    
-    function void display();
-        $display("🚀 Exploring: %s", topics);
-    endfunction
-endclass
-```
-
----
-
-## 💡 Philosophy
-
-> _"In digital design, every clock cycle matters. In verification, every corner case counts."_
+## 🎓 Training & Certifications
 
 <div align="center">
 
-### 🤝 Let's Connect and Build the Future of Hardware Together!
+| 📚 Certification | 🏢 Organization | ⏱️ Duration |
+|-----------------|----------------|------------|
+| Advanced VLSI Verification | Maven Silicon | 6 Months |
+| VLSI Design Methodologies | Maven Silicon | 3 Months |
+| RTL to GDS II Flow | NPTEL | 12 Weeks |
+| System Design Through Verilog | NPTEL | 8 Weeks |
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuhegde24)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuashokhegde@gmail.com)
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+## 📈 Contribution Activity
 
-**⭐ If you find my projects interesting, consider starring them! ⭐**
+<div align="center">
+
+[![Manu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 💭 Quote
+
+<div align="center">
+
+```verilog
+// In hardware, precision matters. In verification, coverage counts.
+assign success = (learning & persistence) ? 1'b1 : 1'b0;
+```
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuhegde24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuashokhegde@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+**⭐ Star my repos if you find them interesting! ⭐**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,21,22&height=120&section=footer&text=Happy%20Coding!&fontSize=35&fontColor=00ff41&animation=twinkling" width="100%"/>
 </div>
